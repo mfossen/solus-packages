@@ -4,6 +4,9 @@
 #Don't include packages
 *.eopkg
 
+#Don't include backup files
+*.*~
+
 ### C ###
 # Prerequisites
 *.d
